@@ -1,6 +1,6 @@
 {
   "name": "@dashkite/masonry-hooks",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Hook-enabled build combinators",
   "keywords": [],
   "homepage": "https://github.com/dashkite/masonry-hooks#readme",
