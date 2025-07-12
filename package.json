@@ -41,6 +41,6 @@
     "@dashkite/genie-release": "^0.2.3"
   },
   "dependencies": {
-    "@dashkite/masonry": "link:../masonry"
+    "@dashkite/masonry": "0.14.0"
   }
 }
