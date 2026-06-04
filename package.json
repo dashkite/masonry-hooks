@@ -42,7 +42,7 @@
     "@dashkite/genie-release": "0.5.15"
   },
   "dependencies": {
-    "@dashkite/masonry": "0.21.0",
-    "@dashkite/joy": "link:../joy"
+    "@dashkite/joy": "^0.12.40",
+    "@dashkite/masonry": "0.21.0"
   }
 }
