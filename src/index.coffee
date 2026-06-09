@@ -1,9 +1,11 @@
 import * as Fn from "@dashkite/joy/function"
 import * as M from "@dashkite/masonry"
 
-registry =
+globalThis["@dashkite/masonry-hooks"] ?=
   read: []
   write: []
+
+registry = globalThis["@dashkite/masonry-hooks"]
 
 register = ( name, handler ) ->
   if ( handlers = registry[ name ] )?
